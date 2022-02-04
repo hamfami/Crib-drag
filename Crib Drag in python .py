@@ -1,6 +1,3 @@
-# NAME : MUHAMAD ILHAM FAHMI BIN AZMI
-# MATRIX : B021910022
-
 import binascii 
 from pickle import TRUE
 
